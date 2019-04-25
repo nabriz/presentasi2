@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="card">
-                    <div class="card-header" data-background-color="purple">
+                    <div class="card-header" data-background-color="yellow">
                         <h4 class="title">Daftar Nama Kelompok 2</h4>
                         <p class="category">Teknologi Informasi dan Komputer - 4 Network </p>
                     </div>
