@@ -18,13 +18,13 @@
                                 </div>
                                 <div class="col-md-3">
                                     <div class="form-group label-floating is-empty">
-                                        <label class="control-label">Usernamer</label>
+                                        <label class="control-label">Username</label>
                                         <input type="text" class="form-control">
                                         <span class="material-input"></span></div>
                                 </div>
                                 <div class="col-md-4">
                                     <div class="form-group label-floating is-empty">
-                                        <label class="control-label">alamat Email</label>
+                                        <label class="control-label">Email</label>
                                         <input type="email" class="form-control">
                                         <span class="material-input"></span></div>
                                 </div>
@@ -32,13 +32,13 @@
                             <div class="row">
                                 <div class="col-md-6">
                                     <div class="form-group label-floating is-empty">
-                                        <label class="control-label">nama panggilan</label>
+                                        <label class="control-label">Fist Name</label>
                                         <input type="text" class="form-control">
                                         <span class="material-input"></span></div>
                                 </div>
                                 <div class="col-md-6">
                                     <div class="form-group label-floating is-empty">
-                                        <label class="control-label">Last Name</label>
+                                        <label class="control-label">Nama lengkap</label>
                                         <input type="text" class="form-control">
                                         <span class="material-input"></span></div>
                                 </div>
