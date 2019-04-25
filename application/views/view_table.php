@@ -11,47 +11,36 @@
                         <table class="table">
                             <thead class="text-primary">
                                 <tr><th>Name</th>
-                                    <th>Country</th>
-                                    <th>City</th>
-                                    <th>Salary</th>
+                                    <th>NIM</th>
+                                    <th>Asal</th>
+                                    <th>Tanggal Lahir</th>
                                 </tr></thead>
                             <tbody>
                                 <tr>
-                                    <td>Dakota Rice</td>
-                                    <td>Niger</td>
-                                    <td>Oud-Turnhout</td>
-                                    <td class="text-primary">$36,738</td>
+                                    <td>Awlylie Nabriz Ichlasullia Susanto</td>
+                                    <td>173140714111033</td>
+                                    <td>Probolinggo</td>
+                                    <td class="text-primary">31 Mei 2000/td>
                                 </tr>
                                 <tr>
-                                    <td>Minerva Hooper</td>
-                                    <td>Curaçao</td>
-                                    <td>Sinaai-Waas</td>
-                                    <td class="text-primary">$23,789</td>
+                                    <td>Agung Bayu R</td>
+                                    <td>173140714111032</td>
+                                    <td>Malang</td>
+                                    <td class="text-primary">16 Maret 1998</td>
                                 </tr>
                                 <tr>
-                                    <td>Sage Rodriguez</td>
-                                    <td>Netherlands</td>
-                                    <td>Baileux</td>
-                                    <td class="text-primary">$56,142</td>
+                                    <td>Ayezha Halidar P</td>
+                                    <td>173140714111039</td>
+                                    <td>Banyuwangi</td>
+                                    <td class="text-primary">10 November 1998</td>
                                 </tr>
                                 <tr>
-                                    <td>Philip Chaney</td>
-                                    <td>Korea, South</td>
-                                    <td>Overland Park</td>
-                                    <td class="text-primary">$38,735</td>
+                                    <td>Modita Natalia Bella G</td>
+                                    <td>173140714111065</td>
+                                    <td>Dili</td>
+                                    <td class="text-primary">26 Desember 1998</td>
                                 </tr>
-                                <tr>
-                                    <td>Doris Greene</td>
-                                    <td>Malawi</td>
-                                    <td>Feldkirchen in Kärnten</td>
-                                    <td class="text-primary">$63,542</td>
-                                </tr>
-                                <tr>
-                                    <td>Mason Porter</td>
-                                    <td>Chile</td>
-                                    <td>Gloucester</td>
-                                    <td class="text-primary">$78,615</td>
-                                </tr>
+                                
                             </tbody>
                         </table>
                     </div>
