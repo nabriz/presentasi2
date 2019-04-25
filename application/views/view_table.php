@@ -4,8 +4,8 @@
             <div class="col-md-12">
                 <div class="card">
                     <div class="card-header" data-background-color="purple">
-                        <h4 class="title">Simple Table</h4>
-                        <p class="category">Here is a subtitle for this table</p>
+                        <h4 class="title">Daftar Nama Kelompok 2</h4>
+                        <p class="category">Teknologi Informasi dan Komputer - 4 Network </p>
                     </div>
                     <div class="card-content table-responsive">
                         <table class="table">
