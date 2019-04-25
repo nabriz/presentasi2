@@ -11,9 +11,9 @@
                         <table class="table">
                             <thead class="text-primary">
                                 <tr><th>Name</th>
-                                    <th>Country</th>
+                                    <th>NIM</th>
                                     <th>City</th>
-                                    <th>Salary</th>
+                                    <th>Tanggal Lahir</th>
                                 </tr></thead>
                             <tbody>
                                 <tr>
