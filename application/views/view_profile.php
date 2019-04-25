@@ -32,7 +32,7 @@
                             <div class="row">
                                 <div class="col-md-6">
                                     <div class="form-group label-floating is-empty">
-                                        <label class="control-label">Fist Name</label>
+                                        <label class="control-label">Nama panggilan</label>
                                         <input type="text" class="form-control">
                                         <span class="material-input"></span></div>
                                 </div>
@@ -54,7 +54,7 @@
                             <div class="row">
                                 <div class="col-md-4">
                                     <div class="form-group label-floating is-empty">
-                                        <label class="control-label">City</label>
+                                        <label class="control-label">Kota</label>
                                         <input type="text" class="form-control">
                                         <span class="material-input"></span></div>
                                 </div>
