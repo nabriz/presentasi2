@@ -18,7 +18,7 @@
                                 </div>
                                 <div class="col-md-3">
                                     <div class="form-group label-floating is-empty">
-                                        <label class="control-label">Username</label>
+                                        <label class="control-label">Usernamer</label>
                                         <input type="text" class="form-control">
                                         <span class="material-input"></span></div>
                                 </div>
