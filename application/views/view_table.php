@@ -20,7 +20,7 @@
                                     <td>Awlylie Nabriz Ichlasullia Susanto</td>
                                     <td>173140714111033</td>
                                     <td>Probolinggo</td>
-                                    <td class="text-primary">31 Mei 2000/td>
+                                    <td class="text-primary">31 Mei 2000</td>
                                 </tr>
                                 <tr>
                                     <td>Agung Bayu R</td>
